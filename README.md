@@ -1,0 +1,1 @@
+See description in rref_gfqk.m for how code works. This function takes a matrix defined over GF(q^k) whose elements are in exponential form and converts it to reduced row echelon form. The output is a matrix in exponential form over GF(q^k).
