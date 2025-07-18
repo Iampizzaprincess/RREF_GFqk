@@ -40,10 +40,6 @@ function [R,field] = rref_gfk(A,q,k)
     % this code in your own work or publication, please credit the
     % original author by including a reference in your code comments or 
     % documentation.
-    %
-    % License: This work is licensed under the Creative Commons Attribution
-    % 4.0 International License (CC BY 4.0). To view a copy of this 
-    % license, visit: https://creativecommons.org/licenses/by/4.0/
     
 
     % Get primitive polynomial for $\mathbb{F}_{q^{k_i}}$ and
